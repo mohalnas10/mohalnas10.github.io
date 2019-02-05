@@ -3,7 +3,14 @@ body{
 
 background-color: red; 
 font-size: 45px;
-text-align: center;
+text-align: center; 
+ color:white; background-color:black
+}
+  h1{ 
+    text-align:center; background-color:red !important;} 
+  .backcolor{ background-color: yellow;
+  }
+
 
  
-} 
+ 
